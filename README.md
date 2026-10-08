@@ -1,2 +1,2 @@
-# Tribute_Ringo_Starr
+# Masayoshi-Takanaka-Tribute-Page
 
