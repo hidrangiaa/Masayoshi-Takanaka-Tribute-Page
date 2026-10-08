@@ -1,0 +1,103 @@
+body{
+	background-image: url(https://media1.tenor.com/m/H_BToCWkI9UAAAAC/vakantie-dinie-vakantie.gif); 
+    
+    background-size: cover;
+    background-position: center;   
+    background-repeat: no-repeat;   
+    background-attachment: fixed; 
+    
+    background-size: cover;
+    background-position: center;   
+    background-repeat: no-repeat;   
+    background-attachment: fixed;
+}
+
+.Title{
+	color: white;
+	text-shadow:
+	-1px -1px 0 #2b76bc,
+	1px -1px 0 #2b76bc,
+	-1px 1px 0 #2b76bc,
+	1px 1px 0 #2b76bc;
+	text-align: center;
+	font-family: Georgia;
+}
+
+#header1{
+	font-size: 58px;
+	font-family: "Courier New", Courier, monospace;
+}
+
+#Life{
+	text-align:left;
+}
+
+.text{
+	color: black;
+	text-align: center;
+	font-family: Georgia;
+}
+
+.Images{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#Takanaka{
+	width:300px;
+	height: 300px;
+	object-fit: cover;
+	border-radius: 50%;
+	outline:8px solid #2b76bc;
+	margin-bottom: 25px;
+}
+#Surf{
+	width: 900px;
+	height: 250px;
+	text-align: center;
+}
+.Content {
+    background: white;
+    width: 100%;
+    max-width: 750px;
+    padding: 25px 35px;
+    margin: 40px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    display: block;
+	margin-left: auto;
+	margin-right: auto;
+	outline:8px solid #2b76bc;
+}
+.button{
+	background: white;
+    width: 100%;
+    max-width: 100px;
+    height: 100%;
+    max-height: 25px;
+    padding: 10px 15px;
+    margin: 25px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+	outline:8px solid #2b76bc;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+a{
+	color: red;
+}
+a:active {
+	color: darkred;
+}
+span{
+	font-size: 30px;
+	width: 100%;
+	margin-right: 20px;
+}
+#ThreeWords{
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+}
